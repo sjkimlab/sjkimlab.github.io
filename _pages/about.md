@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Kim Lab</strong> 
-description: Physics of Life -- From Molecules to Living Cells 
+description: Many body problems in biology at the single-molecule level 
 
 profile:
   align: right
@@ -12,7 +12,6 @@ profile:
 news: true
 social: true
 ---
-Many body problems in biology at the single-molecule level
 
 We are a new, interdisciplinary lab in the Department of Physics at UIUC. We are interested in physical principles underlying molecular interactions and functions inside the cell. Currently, we study spatio-temporal dynamics of RNA polymerases during transcription and RNA degradosome in <i>Escherichia coli</i>. 
 
