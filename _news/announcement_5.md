@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2019-09-19 17:00:00-0400
+date: 2019-09-13 17:00:00-0400
 inline: true
 ---
 
-Sangjin's paper on RNA polymerase group dynamics is published in Cell. 
+Sangjin gave a seminar in the Department of Biochemistry at UIUC on long-distance interactions between RNA polymerases.
+
