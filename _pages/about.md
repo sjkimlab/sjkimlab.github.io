@@ -5,7 +5,7 @@ title: <strong>Kim Lab</strong>
 description: Many body problems in biology at the single-molecule level 
 
 profile:
-  align: right
+  align: 
   image: 
   address: 
 
