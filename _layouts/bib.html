@@ -66,6 +66,9 @@
   {% if entry.abstract %}
     [<a class="abstract">Abs</a>]
   {% endif %}
+  {% if.entry.pubmed %}
+    [<a href="{{ entry.pubmed }}" target="_blank">PubMed</a>]
+  {% endif %} 
   {% if entry.arxiv %}
     [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
   {% endif %}
@@ -73,10 +76,10 @@
     [<a href="{{ entry.html }}" target="_blank">HTML</a>]
   {% endif %}
   {% if entry.pdf %}
-    [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
+    [<a href="{{ entry.pdf }}" target="_blank">PDF</a>]
   {% endif %}
   {% if entry.supp %}
-    [<a href="{{ entry.supp | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Supp</a>]
+    [<a href="{{ entry.supp }}" target="_blank">Supp</a>]
   {% endif %}
   {% if entry.poster %}
     [<a href="{{ entry.poster | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster</a>]
@@ -89,9 +92,6 @@
   {% endif %}
   {% if entry.biorxiv %}
     [<a href="{{ entry.biorxiv }}" target="_blank">bioRxiv</a>]
-  {% endif %}
-  {% if entry.pubmed %}
-    [<a href="{{ entry.pubmed }}" target="_blank">PubMed</a>]
   {% endif %}
   {% if entry.github %}
   [<a href="{{ entry.github }}" target="_blank">github</a>]
