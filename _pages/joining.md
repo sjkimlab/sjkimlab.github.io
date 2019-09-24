@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /joining/
-title: joining the lab 
+title: join us 
 order: 5 
 description: 
 ---

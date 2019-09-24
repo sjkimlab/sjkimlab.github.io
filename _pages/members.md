@@ -14,7 +14,7 @@ social: false
 ---
 <p><strong><i>Sangjin Kim</i></strong></p>
 Assistant Professor of Physics (2019-) <a href="https://physics.illinois.edu/people/directory/profile/sangjin" target="_blank">[minibio]</a>
-<br>A member of NSF Center for Physics of Living Cells (hyper link to https://cplc.illinois.edu/)
+<br>A member of NSF Center for <a href="https://cplc.illinois.edu", target="_blank">Physics of Living Cells</a>
 <br>Faculty Affiliate in Biocomplexity Theme, Carl R. Woese Institute for Genomic Biology
 <br>sangjin@illinois
 <br>
