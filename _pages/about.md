@@ -17,4 +17,4 @@ We are a Biological Physics lab in <a href='https://physics.illinois.edu/people/
 <br>
 <br>
 We are hiring! We are looking for highly energetic and motivated graduate students and postdocs with a background in physics, chemistry, or biology.
-See the <a href="/joining">"joining the lab"</a> tab for detail.
+See the <a href="/joining">joining the lab</a> page for detail.
