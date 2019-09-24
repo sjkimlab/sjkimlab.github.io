@@ -2,7 +2,7 @@
 layout: page
 permalink: /contact/
 title: contact
-order: 5 
+order: 6 
 description: 
 ---
 <p><i>Kim Lab</i></p>
