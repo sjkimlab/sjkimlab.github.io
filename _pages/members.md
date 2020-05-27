@@ -29,6 +29,46 @@ social: false
 </table>
 <br>
 <table border="0" cellspacing="0" cellpadding="0">
+<tr border="0">
+<p><strong>Albur Hassan</strong></p>
+</tr>
+<tr border="0">
+<td width="150">
+</td>
+<td>
+  Graduate student (Physics)
+  <br>ahassan4@illinois
+</td>
+</tr>
+</table>
+<br>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr border="0">
+<p><strong>Zidong Ma</strong></p>
+</tr>
+<tr border="0">
+<td width="150">
+</td>
+<td>
+  Graduate student (MechSE)
+  <br>zidongma2@illinois
+</td>
+</tr>
+</table>
+<br>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr border="0">
+<p><strong>Laura Troyer</strong></p>                                                                                                                                                                 </tr>
+<tr border="0">
+<td width="150">
+  <img src="../data/LauraTroyer1web.jpg" width="150">
+</td>
+<td>
+  Graduate student (Physics)                                                                                                                                                                         <br>ltroyer2@illinois                                                                                                                                                                          </td>
+</tr>
+</table>
+<br>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr border="0"> 
 <p><strong>Kavya Vaidya</strong></p>
 </tr>
@@ -43,13 +83,13 @@ social: false
 </tr>
 </table>
 <br>
-<table cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
   <p><strong>Zach Wang</strong></p>
 </tr>
 <tr>
 <td width="150">
-  <img src="../data/ZachWang1.jpg" width="150">
+  <img src="../data/ZachWang2web.jpg" width="150">
 </td>
 <td>
   Undergraduate student (MCB and physics)
