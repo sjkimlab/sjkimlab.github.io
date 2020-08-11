@@ -69,6 +69,21 @@ social: false
 </table>
 <br>
 <table border="0" cellspacing="0" cellpadding="0">
+<tr border="0">
+<p><strong>Ethan Muchnik</strong></p>
+</tr>
+<tr border="0">
+<td width="150">
+  
+</td>
+<td>
+  Undergraduate student (Physics)
+  <br>emuchni2@illinois
+</td>
+</tr>
+</table>
+<br>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr border="0"> 
 <p><strong>Kavya Vaidya</strong></p>
 </tr>
@@ -83,17 +98,13 @@ social: false
 </tr>
 </table>
 <br>
+  <header class="post-header">
+    <h1 class="post-title">alumni</h1>
+    <h5 class="post-description"></h5>
+  </header>
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-  <p><strong>Zach Wang</strong></p>
-</tr>
-<tr>
-<td width="150">
-  <img src="../data/ZachWang2web.jpg" width="150">
-</td>
-<td>
-  Undergraduate student (MCB and physics)
-  <br>zichenw2@illinois
-</td>
+  <p><strong>Zichen Zach Wang</strong></p> 
+  - Undergraduate student, MCB and physics, 2019-2020
 </tr>
 </table>

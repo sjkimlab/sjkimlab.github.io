@@ -93,6 +93,9 @@
   {% if entry.biorxiv %}
     [<a href="{{ entry.biorxiv }}" target="_blank">bioRxiv</a>]
   {% endif %}
+  {% if entry.openaccess %}
+      [<a href="{{ entry.openaccess }}" target="_blank">OpenAccess</a>]
+  {% endif %}
   {% if entry.github %}
   [<a href="{{ entry.github }}" target="_blank">github</a>]
   {% endif %}
