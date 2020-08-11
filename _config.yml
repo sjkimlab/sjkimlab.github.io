@@ -87,8 +87,8 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Kim 
-  first_name: Sangjin
+  last_name: Kim
+  first_name: Sangjin 
 
   style: apa
   locale: en
