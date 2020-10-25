@@ -30,6 +30,20 @@ social: false
 <br>
 <table border="0" cellspacing="0" cellpadding="0">
 <tr border="0">
+<p><strong>Seunghyeon Kim</strong></p>
+</tr>
+<tr border="0">
+<td width="150">
+</td>
+<td>
+  Postdoctoral Associate
+  <br>colikim@illinois
+</td>
+</tr>
+</table>
+<br>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr border="0">
 <p><strong>Albur Hassan</strong></p>
 </tr>
 <tr border="0">
@@ -38,20 +52,6 @@ social: false
 <td>
   Graduate student (Physics)
   <br>ahassan4@illinois
-</td>
-</tr>
-</table>
-<br>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr border="0">
-<p><strong>Zidong Ma</strong></p>
-</tr>
-<tr border="0">
-<td width="150">
-</td>
-<td>
-  Graduate student (MechSE)
-  <br>zidongma2@illinois
 </td>
 </tr>
 </table>
